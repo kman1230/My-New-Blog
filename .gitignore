@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+ienv
+db.sqlite3
+/static
+.DS_Store
